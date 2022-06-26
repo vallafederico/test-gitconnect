@@ -515,6 +515,7 @@ class App {
         (0, _testJsDefault.default)();
     }
 }
+new App();
 
 },{"./test.js":"75Blv","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"75Blv":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
